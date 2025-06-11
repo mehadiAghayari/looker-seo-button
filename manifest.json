@@ -10,5 +10,6 @@
   "id": "custom_button_seo",
   "name": "Custom SEO Button",
   "description": "A custom HTML button with hover effect",
-  "author": "Your Name"
+  "author": "Your Name",
+  "visualization": "drawViz"
 }
