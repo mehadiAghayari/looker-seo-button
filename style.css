@@ -1,0 +1,30 @@
+.custom-button {
+  width: 402px;
+  height: 105px;
+  background-color: #2B2B2B;
+  color: #CCCCCC;
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.custom-button i {
+  font-size: 32px;
+  transition: color 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #3A3A3A;
+  color: #FFC900;
+}
+
+.custom-button:hover i {
+  color: #FFC900;
+}
